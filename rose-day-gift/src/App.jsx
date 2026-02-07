@@ -20,7 +20,7 @@ function App() {
     <div className="container">
       <div className="card">
         <h1>Happy Rose Day! 🌹</h1>
-        <p>I can't be there to give you real flowers today, so I made you an infinite garden.</p>
+        <p>I can't be there to give you real flowers today, soooooo I thought too make you an infinite garden.💋💋💋</p>
         
         <button onClick={addRose} className="rose-btn">
           Click for a Rose
